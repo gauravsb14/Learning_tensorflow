@@ -1,5 +1,5 @@
 # Learning_tensorflow
-Tensorflow with simple predictive model and weights and bias optimization using tensofrflow methods
+Simple predictive model and weights and bias optimization using tensorflow methods
 
 Prerequisit:
 - Tensorflow installed.
