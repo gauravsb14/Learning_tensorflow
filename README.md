@@ -35,7 +35,7 @@ Explaination:
       7. optimizer = tf.train.GradientDescentOptimizer(0.01)
         train = optimizer.minimize(loss)
 - here  i am using gradientDescentoptimizer() available with tensorflow.train package.
-- if you wish to see the code for gradient descent check here : https://github.com/gauravsb14/GradientDescentInPython
+- if you wish to see the code for gradient descent in python check here : https://github.com/gauravsb14/GradientDescentInPython
       
       8. sess = tf.Session()
         sess.run(init)
